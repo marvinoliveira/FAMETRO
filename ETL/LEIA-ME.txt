@@ -1,0 +1,1 @@
+O projeto consiste em ler uma planilha de origem e , a partir destes dados, gerar o modelo OLTP e OLAP todo a partir do PDI.
